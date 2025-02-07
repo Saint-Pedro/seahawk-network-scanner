@@ -31,7 +31,7 @@ sudo apt-get install nmap
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/votre-username/seahawks-network-scanner.git
+git clone https://github.com/Saint-Pedro/seahawk-network-scanner.git
 cd seahawks-network-scanner
 ```
 
